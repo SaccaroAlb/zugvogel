@@ -19,6 +19,8 @@ This is a template for creating an [HTML GitBook style](https://bookdown.org/yih
 
 - [ ] 1. Clone your new repo with *File, New Project..., Version Control, Git* in RStudio.
 
+
+
 ### Edit some key files
 
 - [ ] 1. In `index.Rmd`, change YOUR TITLE HERE to your title. 
